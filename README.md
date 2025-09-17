@@ -10,10 +10,10 @@ Feel free to browse, download, and use these images for your projects. New image
 
 Use the links below to quickly navigate to the different collections of images. Each folder is named after the AI model used to generate its contents.
 
-  * [**ChatGPT**](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/tree/main/ChatGPT) - A collection of images generated using OpenAI's ChatGPT.
-  * [**Midjourney**](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/tree/main/Midjourney) - A gallery of images created with the Midjourney AI.
-  * [**Veo**](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/tree/main/Veo) - Images generated with the Veo text-to-video model.
-  * [**nanobanana**](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/tree/main/nanobanana) - A showcase of images from the nanobanana AI.
+  * [**ChatGPT**](https://github.com/SRafi007/Awesome-AI-Gallery/tree/main/chatgpt) - A collection of images generated using OpenAI's ChatGPT.
+  * [**Midjourney**](https://github.com/SRafi007/Awesome-AI-Gallery/tree/main/midjourney) - A gallery of images created with the Midjourney AI.
+  * [**Veo**](https://github.com/SRafi007/Awesome-AI-Gallery/tree/main/nanobanana) - Images generated with the Veo text-to-video model.
+  * [**nanobanana**](https://github.com/SRafi007/Awesome-AI-Gallery/tree/main/veo) - A showcase of images from the nanobanana AI.
 
 -----
 
