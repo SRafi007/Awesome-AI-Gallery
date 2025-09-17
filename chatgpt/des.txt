@@ -1,0 +1,1 @@
+This folder contains images generated using OpenAI's ChatGPT. These images showcase the model's ability to create visuals by interpreting complex and detailed natural language prompts, often with a focus on clear instruction fidelity.
